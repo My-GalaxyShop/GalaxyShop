@@ -1,0 +1,168 @@
+@-webkit-keyframes movi {
+    0% {
+        background-position: 0 0
+    }
+
+    to {
+        background-position: 0 -412px
+    }
+}
+
+@keyframes movi {
+    0% 
+    
+{
+        background-position: 0 0
+    }
+
+    to {
+        background-position: 0 -412px
+    }
+}
+.ti {
+    color: #dab332;
+    font-size: 1.5rem;
+}
+.ti1 {
+    color: #dab332;
+}
+.dow{
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #363631;
+  color: #dab332;
+  box-shadow: 1px 1px white;
+  padding-bottom: 20px;
+}
+.tt{
+    font-size: xx-large;
+    margin-right: 50px;
+    float: right;
+}
+.tt1{
+ /* display: inline-block; */
+    margin-right: 30% ;
+    margin-left:10%;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    
+}
+
+img{
+        height: 650px;
+        width: 530px;
+    }
+
+    .box{
+        width: 530px;
+        height: 650px;
+        margin: auto;
+        border-radius: 5px;
+    }
+    .img1{
+        height: 500px;
+        width: 530px;
+    }
+    @media screen and (max-width:530px) {
+        img{
+        height: 400px;
+        width: 320px;
+    }
+    .box{
+        width: 320px;
+        height: 500px;
+        margin: auto;
+    }
+    .img1{
+        height: 300px;
+        width: 320px;
+    }
+    }
+.box1{
+    margin: auto;
+}
+
+@media  screen and (max-width:700) {
+.vov{
+    max-width: 100%;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+
+.vid{
+    margin-top: 150px; 
+    margin-bottom:50px
+ 
+}}
+#vidcolor{
+    background-color: rgb(27, 26, 26);
+    border-radius: 20px;
+    /* margin-left: 100px; */
+}
+@media screen and (min-width:701) {
+    .vov{
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+
+#vidcolor{
+    background-color: rgb(27, 26, 26);
+    border-radius: 20px;
+    margin-left: 100px;
+}
+}
+
+#fontvid{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #dab332;
+    text-align:right;
+    /* font-size: medium; */
+}
+#textshadow{
+    color: #dab332;
+    text-shadow: 0.75px 0.75px rgb(167, 164, 100);
+}
+.mov{
+    border-radius: 10px;
+}
+
+.card{
+    margin-top: 5%;
+    background-color: rgb(37, 37, 37);
+}
+.line{
+    color:rgb(204, 204, 204);
+}
+.g{
+    color: #dab332;
+    text-align: center;
+    margin-top: 200px;
+}
+.telme{
+          border-radius: 15px;
+          width: 280px;
+          height: 480px;
+          margin: auto;
+          
+        }
+        .telmy{
+        
+          border-radius:35px ;
+          opacity: 1;
+          margin: auto;
+          /* background-color:rgba( 37,37, 37);
+       */
+         
+        }
+        .bgtel{
+          width: 310px;
+          background-color:rgb(0, 0, 0);
+          margin: auto;
+      
+        }
+        .cros{
+          background-color: rgb(239, 212, 11);
+          /* margin-left: 10%; */
+        }
